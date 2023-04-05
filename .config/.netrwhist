@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =9
+let g:netrw_dirhist_9='/home/yleroy/project/repositories/cocotb/examples/sliding_window_sum'
+let g:netrw_dirhist_8='/home/yleroy/project/repositories/cocotb/examples/sliding_window_sum/hdl'
+let g:netrw_dirhist_7='/home/yleroy/project/repositories/cocotb/examples/sliding_window_sum/tests'
+let g:netrw_dirhist_6='/home/yleroy/project/repositories/cocotb-bus/src/cocotb_bus/drivers'
+let g:netrw_dirhist_5='/home/yleroy/project/repositories/cocotb-bus/src/cocotb_bus'
+let g:netrw_dirhist_4='/home/yleroy/project/repositories/cocotb-bus/src'
+let g:netrw_dirhist_3='/home/yleroy/project/repositories/cocotb-bus'
+let g:netrw_dirhist_2='/home/yleroy/project/repositories/cocotb/examples/mean/tests'
+let g:netrw_dirhist_1='/home/yleroy/project/repositories/cocotb/examples/mean'
